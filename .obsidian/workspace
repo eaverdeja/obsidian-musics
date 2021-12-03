@@ -7,8 +7,11 @@
         "id": "a406ec7e95644811",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Músicas/Vou Vivendo.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Músicas/Vou Vivendo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,15 +95,15 @@
   },
   "active": "a406ec7e95644811",
   "lastOpenFiles": [
+    "Músicas/Vou Vivendo.md",
+    "Músicas/Pedacinhos do Céu.md",
+    "Músicas/Entre Mil... Você.md",
+    "Repertórios/Eduardo Verdeja-Domínio Médio.md",
+    "Repertórios/Eduardo Verdeja-Domínio Grande.md",
     "Dashboard.md",
     "Repertórios/Philip Lonergan-Domínio Grande.md",
-    "Repertórios/Eduardo Verdeja-Domínio Grande.md",
-    "Repertórios/Eduardo Verdeja-Domínio Médio.md",
     "Choro.md",
     "Domínio grande.md",
-    "Jacob do Bandolim.md",
-    "Benedito Lacerda.md",
-    "Níveis de estudo.md",
-    "Repertório Eduardo Verdeja.md"
+    "Jacob do Bandolim.md"
   ]
 }
