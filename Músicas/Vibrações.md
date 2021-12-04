@@ -1,10 +1,11 @@
 # Metadados
 
-**Compositores**:: 
-**Intérpretes**::
-**Tonalidades**:: 
+**Compositores**:: [[Jacob do Bandolim]]
+**Intérpretes**:: [[Jacob do Bandolim]]
+**Tonalidades**:: [[D menor]]
 **Ritmos**:: 
-**Partituras**::
+**Partituras**:: [[vibrações.pdf]]
 **Gravações**:: 
 
 # Partituras
+![[vibrações.pdf]]
