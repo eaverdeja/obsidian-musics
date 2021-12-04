@@ -4,7 +4,7 @@
 **Intérpretes**:: [  ]
 **Tonalidades**:: [  ]
 **Ritmos**:: [  ]
-**Partituras**:: [  ]
+**Partituras**::
 **Gravações**:: 
 
 # Partituras
