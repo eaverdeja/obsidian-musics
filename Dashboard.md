@@ -19,11 +19,10 @@ for (let group of dv.pages('"Músicas"').groupBy(p => p.Ritmos)) {
 
 # Músicas sem partitura
 ```dataviewjs
-const musicsWithoutSheet = dv.pages('"Músicas"').where(page => {
-	console.log(dv.array(page.Partituras))
-	
-	return page;
-})
+const musicsWithoutSheet = dv.pages('"Músicas/Cochichando"')
+	.where(page => page.Partituras.values.length > 0)
+
+dv.list(musicsWithoutSheet.file.link)
 ```
 
 # Níveis de estudo Verdeja
