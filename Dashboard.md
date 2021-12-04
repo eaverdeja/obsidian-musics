@@ -19,8 +19,16 @@ for (let group of dv.pages('"Músicas"').groupBy(p => p.Ritmos)) {
 
 # Músicas sem partitura
 ```dataviewjs
-const musicsWithoutSheet = dv.pages('"Músicas/Cochichando"')
-	.where(page => page.Partituras.values.length > 0)
+const musicsWithoutSheet = dv.pages('"Músicas"')
+	.where(page => !page.Partituras.values || page.Partituras.values.length > 0)
+
+dv.list(musicsWithoutSheet.file.link)
+```
+
+# Músicas sem gravações
+```dataviewjs
+const musicsWithoutSheet = dv.pages('"Músicas"')
+	.where(page => !page.Gravações.values || page.Gravações.values.length > 0)
 
 dv.list(musicsWithoutSheet.file.link)
 ```
