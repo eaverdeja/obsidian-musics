@@ -1,10 +1,10 @@
 # Metadados
 
-**Compositores**:: [ [[Jacob do Bandolim]]  ]
+**Compositores**:: [[Jacob do Bandolim]]
 **Intérpretes**:: [[Jacob do Bandolim]]
 **Intérpretes**:: [[Época de Ouro]]
-**Tonalidades**:: [ [[G maior]] ]
-**Ritmos**:: [ [[Choro]] ]
+**Tonalidades**:: [[G maior]]
+**Ritmos**:: [[Choro]]
 **Partituras**:: [[diabinho_maluco_1.jpeg]]
 **Partituras**:: [[diabinho_maluco_2.jpeg]]
 **Gravações**:: [Original por Jacob do Bandolim](https://www.youtube.com/watch?v=x5eSUb_7R6E)
