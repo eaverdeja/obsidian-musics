@@ -1,0 +1,1 @@
+G maior é o relativo de [[E menor]]

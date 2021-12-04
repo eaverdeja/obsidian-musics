@@ -1,6 +1,6 @@
 # 🎼 Dashboard
 
-## Níveis de estudo Verdeja
+## Repertório Eduardo Verdeja
 
 ```dataviewjs
 for(let group of dv.pages('"🤓 Repertórios/Eduardo Verdeja"').groupBy(p => p.Domínio)) {
@@ -20,7 +20,7 @@ for(let group of dv.pages('"🤓 Repertórios/Eduardo Verdeja"').groupBy(p => p.
 
 ---
 
-## Níveis de estudo Phil
+## Repertório Philip Lonergan
 
 ```dataviewjs
 for(let group of dv.pages('"🤓 Repertórios/Philip Lonergan"').groupBy(p => p.file.link)) {
