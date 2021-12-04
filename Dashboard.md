@@ -50,6 +50,7 @@ for(let group of dv.pages('"Repertórios/Philip Lonergan"').groupBy(p => p.file.
 ```dataviewjs
 for (let group of dv.pages('"Músicas"').groupBy(p => p.Ritmos)) {
     dv.header(3, group.key);
+	dv.el("p", `This category has ${group.rows.length} songs`)
     dv.table(["Música", "Compositores", "Intérpretes", "Gravações", "Partituras"],
         group.rows
 			.sort(k => k.file.link)
