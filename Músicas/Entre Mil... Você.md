@@ -1,7 +1,8 @@
 # Metadados
 
 **Compositores**:: [ [[Jacob do Bandolim]] ]
-**Intérpretes**:: [ [[Jacob do Bandolim]], [[Joel Nascimento]] ]
+**Intérpretes**:: [[Jacob do Bandolim]]
+**Intérpretes**:: [[Joel Nascimento]]
 **Tonalidades**:: [ [[F maior]] ]
 **Ritmos**:: [ [[Choro]] ]
 **Partituras**:: [[entre mil, voce.pdf]]

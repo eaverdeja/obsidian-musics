@@ -1,7 +1,7 @@
 # Metadados
 
 **Compositores**:: [  ]
-**Intérpretes**:: [  ]
+**Intérpretes**::
 **Tonalidades**:: [  ]
 **Ritmos**:: [  ]
 **Partituras**::

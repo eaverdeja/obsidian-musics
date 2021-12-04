@@ -1,7 +1,8 @@
 # Metadados
 
 **Compositores**:: [ [[Waldir Azevedo]] ]
-**Intérpretes**:: [ [[Waldir Azevedo]], [[Canhotinho]] ]
+**Intérpretes**:: [[Waldir Azevedo]]
+**Intérpretes**:: [[Canhotinho]]
 **Tonalidades**:: [ [[G maior]] ]
 **Ritmos**:: [ [[Choro]] ]
 **Partituras**:: [[Pedacinhos do Céu.pdf]]

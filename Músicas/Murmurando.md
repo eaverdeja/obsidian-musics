@@ -1,7 +1,8 @@
 # Metadados
 
 **Compositores**:: [ [[Fon-Fon]]  ]
-**Intérpretes**:: [ [[Jacob do Bandolim]], [[Nilze Carvalho]]  ]
+**Intérpretes**:: [[Jacob do Bandolim]]
+[[Nilze Carvalho]]  ]
 **Tonalidades**:: [ [[D menor]] ]
 **Ritmos**:: [ [[Choro]] ]
 **Partituras**:: [[Murmurando.pdf]]
