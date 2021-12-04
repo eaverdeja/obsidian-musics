@@ -2,9 +2,9 @@
 
 **Compositores**:: 
 **Intérpretes**:: 
-**Tonalidades**:: 
-**Ritmos**:: 
-**Partituras**:: 
+**Tonalidades**:: [[E maior]]
+**Ritmos**:: [[Choro]]
+**Partituras**:: [[Choro da Vinda.pdf]]
 **Gravações**:: 
 
 # Partituras
