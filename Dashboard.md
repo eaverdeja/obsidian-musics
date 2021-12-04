@@ -17,6 +17,10 @@ for (let group of dv.pages('"Músicas"').groupBy(p => p.Ritmos)) {
 }
 ```
 
+# Músicas sem partitura
+```dataviewjs
+const musicsWithoutSheet = dv.pages("")
+```
 
 # Níveis de estudo Verdeja
 ```dataviewjs
