@@ -3,7 +3,7 @@
 **Compositores**:: [[Jacob do Bandolim]]
 **Intérpretes**:: [[Jacob do Bandolim]]
 **Tonalidades**:: [[D menor]]
-**Ritmos**:: 
+**Ritmos**:: [[Choro]]
 **Partituras**:: [[vibrações.pdf]]
 **Gravações**:: 
 
