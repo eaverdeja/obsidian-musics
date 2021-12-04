@@ -10,4 +10,4 @@
 
 
 # Partituras
-![[Cochichando C - melodia.pdf]]
+![[Cochichando.pdf]]
