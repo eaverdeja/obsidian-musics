@@ -1,2 +1,0 @@
-- [[Vou Vivendo]]
-- [[Entre Mil... Você]]
