@@ -21,13 +21,12 @@ for (let group of dv.pages('"Músicas"').groupBy(p => p.Ritmos)) {
 ```dataviewjs
 const musicsWithoutSheet = dv.pages('"Músicas"')
 	.where(page => {
+		console.log(page.Partituras)
 		if (!page.Partituras) return true;
-		if (Array.isArray(page.Partituras)) {
+		if (page.Partituras.values && Array.isArray(page.Partituras.values)) {
 			return page.Partituras.values.length === 0;
 		}
-		return 
-		console.log({ partituras: page.Partituras })
-		return !page.Partituras.values || page.Partituras.values.length === 0
+		return !!page.Partituras;
 	})
 
 dv.list(musicsWithoutSheet.file.link)
