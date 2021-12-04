@@ -1,11 +1,12 @@
 # Metadados
 
-**Compositores**:: [ [[Pixinguinha]], [[Benedito Lacerda]] ]
+**Compositores**:: [[Pixinguinha]]
+**Compositores**:: [[Benedito Lacerda]]
 **Intérpretes**:: [[Pixinguinha]]
 **Intérpretes**:: [[Fernando Cesar]]
 **Intérpretes**:: [[Thanise Silva]]
-**Tonalidades**:: [ [[F maior]] ]
-**Ritmos**:: [ [[Choro]] ]
+**Tonalidades**:: [[F maior]]
+**Ritmos**:: [[Choro]]
 **Partituras**:: [[vou vivendo 1.jpeg]]
 **Partituras**:: [[vou vivendo 2.jpeg]]
 **Partituras**:: [[Vou vivendo.pdf]]

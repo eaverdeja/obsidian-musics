@@ -4,7 +4,7 @@
 **Intérpretes**:: [[Jacob do Bandolim]]
 **Intérpretes**:: [[Joel Nascimento]]
 **Tonalidades**:: [[F maior]]
-**Ritmos**:: [ [[Choro]]
+**Ritmos**:: [[Choro]]
 **Partituras**:: [[entre mil, voce.pdf]]
 **Gravações**:: [Original por Jacob](https://www.youtube.com/watch?v=LlNzP1g5Cqg)
 **Gravações**:: [Ao vivo por Joel Nascimento](https://www.youtube.com/watch?v=ZVjQOpcZOqc)
