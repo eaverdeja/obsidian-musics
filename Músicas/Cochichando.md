@@ -1,7 +1,8 @@
 # Metadados
 
 **Compositores**:: [ [[Pixinguinha]] ]
-**Intérpretes**:: [ [[Pixinguinha]], [[Benedito Lacerda]], [[Jacob do Bandolim]] ]
+**Intérpretes**:: [[Pixinguinha]]
+[[Benedito Lacerda]], [[Jacob do Bandolim]] ]
 **Tonalidades**:: [ [[D menor]] ]
 **Ritmos**:: [ [[Choro]] ]
 **Partituras**:: [[Cochichando.pdf]]
