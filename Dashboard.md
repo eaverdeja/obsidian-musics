@@ -20,17 +20,25 @@ for (let group of dv.pages('"Músicas"').groupBy(p => p.Ritmos)) {
 # Músicas sem partitura
 ```dataviewjs
 const musicsWithoutSheet = dv.pages('"Músicas"')
-	.where(page => !page.Partituras.values || page.Partituras.values.length > 0)
+	.where(page => {
+		if (!page.Partituras) return true;
+		if (Array.isArray(page.Partituras)) {
+			return page.Partituras.values.length === 0;
+		}
+		return 
+		console.log({ partituras: page.Partituras })
+		return !page.Partituras.values || page.Partituras.values.length === 0
+	})
 
 dv.list(musicsWithoutSheet.file.link)
 ```
 
 # Músicas sem gravações
 ```dataviewjs
-const musicsWithoutSheet = dv.pages('"Músicas"')
-	.where(page => !page.Gravações.values || page.Gravações.values.length > 0)
+const musicsWithoutRecordings = dv.pages('"Músicas"')
+	.where(page => !page.Gravações.values || page.Gravações.values.length === 0)
 
-dv.list(musicsWithoutSheet.file.link)
+dv.list(musicsWithoutRecordings.file.link)
 ```
 
 # Níveis de estudo Verdeja
