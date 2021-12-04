@@ -52,6 +52,7 @@ for (let group of dv.pages('"Músicas"').groupBy(p => p.Ritmos)) {
     dv.header(3, group.key);
     dv.table(["Música", "Compositores", "Intérpretes", "Gravações", "Partituras"],
         group.rows
+			.sort(k => k.file.link)
             .map(k => [
 				k.file.link,
 				k.Compositores,
