@@ -5,6 +5,6 @@
 - Tonalidade:: [[G maior]]
 - Forma:: [[AABBA]]
 - Instrumento:: [[Cavaquinho (solo)]]
-- Domínio:: [[👍 Domínio Médio]]
+- Domínio:: [[💪 Domínio Grande]]
 
 ## Considerações
