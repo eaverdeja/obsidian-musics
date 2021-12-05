@@ -3,7 +3,7 @@
 ## Metadados
 - Música:: [[🎶 Músicas/Choro da Vinda]]
 - Tonalidade:: [[G maior]]
-- Forma:: AABBA
+- Forma:: [[AABBA]]
 - Instrumento:: [[Violão 7 cordas]]
 - Domínio:: [[👍 Domínio Médio]]
 

@@ -2,7 +2,7 @@
 
 **Compositores**:: [[Léo Benon]]
 **Intérpretes**:: [[Fernando Cesar e Regional]]
-**Tonalidades**:: [[E maior]]
+**Tonalidades**:: [[E maior]]/[[E menor]]
 **Ritmos**:: [[Choro]]
 **Partituras**:: [[Choro da Vinda.pdf]]
 **Gravações**:: [Em estúdio por Fernando Cesar e Regional](https://www.youtube.com/watch?v=XySNtoAGYGI)

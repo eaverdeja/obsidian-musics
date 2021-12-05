@@ -3,7 +3,7 @@
 **Compositores**:: [[Jacob do Bandolim]]
 **Intérpretes**:: [[Jacob do Bandolim]]
 **Intérpretes**:: [[Época de Ouro]]
-**Tonalidades**:: [[G maior]]
+**Tonalidades**:: [[G maior]]/[[E menor]]/[[C maior]]
 **Ritmos**:: [[Choro]]
 **Partituras**:: [[diabinho_maluco_1.jpeg]]
 **Partituras**:: [[diabinho_maluco_2.jpeg]]

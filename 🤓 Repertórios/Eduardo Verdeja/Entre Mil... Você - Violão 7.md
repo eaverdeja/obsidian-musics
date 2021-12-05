@@ -3,7 +3,7 @@
 ## Metadados
 - Música:: [[🎶 Músicas/Entre Mil... Você]]
 - Tonalidade:: [[F maior]]
-- Forma: AABBAA
+- Forma: [[AABBAA]]
 - Instrumento:: [[Violão 7 cordas]]
 - Domínio:: [[💪 Domínio Grande]]
 

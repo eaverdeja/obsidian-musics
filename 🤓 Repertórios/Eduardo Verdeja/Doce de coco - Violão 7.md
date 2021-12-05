@@ -3,7 +3,7 @@
 ## Metadados
 - Música:: [[🎶 Músicas/Doce de coco]]
 - Tonalidade:: [[G maior]]
-- Forma:: ABBA
+- Forma:: [[ABBA]]
 - Instrumento:: [[Violão 7 cordas]]
 - Domínio:: [[🙇‍♂️ Domínio Pequeno]]
 

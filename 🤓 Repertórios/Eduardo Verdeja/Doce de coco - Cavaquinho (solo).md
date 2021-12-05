@@ -3,8 +3,8 @@
 ## Metadados
 - Música:: [[🎶 Músicas/Doce de coco]]
 - Tonalidade:: [[G maior]]
-- Forma:: ABBA
-- Instrumento:: [[Cavaquinho]]
+- Forma:: [[ABBA]]
+- Instrumento:: [[Cavaquinho (solo)]]
 - Domínio:: [[👍 Domínio Médio]]
 
 ## Considerações

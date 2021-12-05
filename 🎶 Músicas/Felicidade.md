@@ -2,7 +2,7 @@
 
 **Compositores**:: [[Rafael dos Anjos Amorim]]
 **Intérpretes**:: [[Fernando Cesar e Regional]]
-**Tonalidades**:: [[Bb maior]]
+**Tonalidades**:: [[Bb maior]]/[[Bb menor]]/[[Eb maior]]
 **Ritmos**:: [[Choro]]
 **Partituras**:: [[Felicidade]]
 **Gravações**:: [Em estúdio por Fernando Cesar e Regional](https://www.youtube.com/watch?v=N7A0SF-DaKY)

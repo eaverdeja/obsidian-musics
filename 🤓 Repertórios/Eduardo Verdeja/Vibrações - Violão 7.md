@@ -1,9 +1,10 @@
-# Murmurando - Violão 7
+# Vibrações - Violão 7
 
 ## Metadados
-- Música:: [[🎶 Músicas/Murmurando]]
+
+- Música:: [[Vibrações]]
 - Tonalidade:: [[D menor]]
-- Forma:: foo
+- Forma:: 
 - Instrumento:: [[Violão 7 cordas]]
 - Domínio:: [[🙇‍♂️ Domínio Pequeno]]
 

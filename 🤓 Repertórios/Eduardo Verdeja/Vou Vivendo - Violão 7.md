@@ -3,6 +3,6 @@
 ## Metadados
 - Música:: [[🎶 Músicas/Vou Vivendo]]
 - Tonalidade:: [[F maior]]
-- Forma:: AABBACCA
+- Forma:: [[AABBACCA]]
 - Instrumento:: [[Violão 7 cordas]]
 - Domínio:: [[👍 Domínio Médio]]

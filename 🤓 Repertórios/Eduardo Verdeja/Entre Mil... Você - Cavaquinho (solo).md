@@ -3,8 +3,8 @@
 ## Metadados
 - Música:: [[🎶 Músicas/Entre Mil... Você]]
 - Tonalidade:: [[F maior]]
-- Forma: AABBAA
-- Instrumento:: [[Violão 7 cordas]]
+- Forma: [[AABBAA]]
+- Instrumento:: [[Cavaquinho (solo)]]
 - Domínio:: [[👍 Domínio Médio]]
 
 ## Considerações
