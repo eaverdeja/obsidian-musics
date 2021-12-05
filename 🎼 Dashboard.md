@@ -12,7 +12,7 @@ const repertoireBySkill = repertoire
 		// (a or b).key.path is 💪 Domínio Grande or 👍 Domínio Médio etc.
 		return order.indexOf(a.key.path) - order.indexOf(b.key.path)
 	})
-for(let skillGroup of repertoireBySkill.sort(g => g.instrumento)) {
+for(let skillGroup of repertoireBySkill.sort(g => g.Instrumento)) {
 	dv.header("5", skillGroup.key)
 	dv.table(["Música/Instrumento", "Tonalidades"],
         skillGroup.rows
