@@ -1,12 +1,11 @@
 # Entre Mil... Você
 
 ## Metadados
-
 - Música:: [[🎶 Músicas/Entre Mil... Você]]
 - Tonalidade:: [[F maior]]
+- Forma: AABBAA
 - Instrumento:: [[Violão 7 cordas]]
 - Domínio:: [[💪 Domínio Grande]]
-- Forma: AABBAA
 
 ## Considerações
 
