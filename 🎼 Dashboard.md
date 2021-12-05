@@ -1,4 +1,12 @@
 # 🎼 Dashboard
+```dataviewjs
+const foo = () => {
+	dv.el("p", "foo")
+}
+foo()
+
+```
+
 
 ## Repertório Eduardo Verdeja
 ```dataviewjs
