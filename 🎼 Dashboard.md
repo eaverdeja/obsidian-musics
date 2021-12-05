@@ -11,9 +11,9 @@ const repertoireBySkill = repertoire
 	.sort((a, b) => {
 		return order.indexOf(a.key.path) - order.indexOf(b.key.path)
 	})
-
+dv.header("3", "Repertório por domínio")
 for(let skillGroup of repertoireBySkill.sort(g => g.instrumento)) {
-	dv.header("3", skillGroup.key)
+	dv.header("5", skillGroup.key)
 	dv.table(["Música", "Tonalidade", "Instrumento"],
         skillGroup.rows
 			.sort(k => [k.Instrumento, k.Música])
@@ -26,11 +26,21 @@ for(let skillGroup of repertoireBySkill.sort(g => g.instrumento)) {
 	)
 }
 
-const repertoireByTonality = repertoire.groupBy(r => r.Tonalidade).sort(g => g.rows.values.length, "desc")
 
+dv.header("3", "Quantidade de músicas em cada tonalidade")
+const repertoireByTonality = repertoire
+	.groupBy(r => r.Tonalidade)
+	.sort(g => g.rows.values.length, "desc")
 for(let tonalityGroup of repertoireByTonality) {
-	console.log({tonalityGroup})
 	dv.el("p", `Você tem ${tonalityGroup.rows.values.length} músicas em ${tonalityGroup.key.path} no seu repertório`)
+}
+
+dv.header("3", "Quantidade de músicas em cada instrumento")
+const repertoireByInstrument = repertoire
+	.groupBy(r => r.Instrumento)
+	.sort(g => g.rows.values.length, "desc")
+for(let instrumentGroup of repertoireByInstrument) {
+	dv.el("p", `Você tem ${instrumentGroup.rows.values.length} músicas tocadas no  ${instrumentGroup.key.path} no seu repertório`)
 }
 ```
 
