@@ -1,13 +1,22 @@
 # 🎼 Dashboard
 
 ## Repertório Eduardo Verdeja
-
 ```dataviewjs
-for(let group of dv.pages('"🤓 Repertórios/Eduardo Verdeja"').groupBy(p => p.Domínio)) {
-	dv.header("3", group.key)
+const order = ["💪 Domínio Grande", "👍 Domínio Médio", "🙇‍♂️ Domínio Pequeno"]
+const repertoire = dv.pages('"🤓 Repertórios/Eduardo Verdeja"')
+
+const repertoireBySkill = repertoire
+	.groupBy(r => r.Domínio)
+	.array()
+	.sort((a, b) => {
+		return order.indexOf(a.key.path) - order.indexOf(b.key.path)
+	})
+
+for(let skillGroup of repertoireBySkill.sort(g => g.instrumento)) {
+	dv.header("3", skillGroup.key)
 	dv.table(["Música", "Tonalidade", "Instrumento"],
-        group.rows
-			.sort(k => k.Música)
+        skillGroup.rows
+			.sort(k => [k.Instrumento, k.Música])
             .map(k => [
 				k.Música,
 				k.Tonalidade,
@@ -15,6 +24,13 @@ for(let group of dv.pages('"🤓 Repertórios/Eduardo Verdeja"').groupBy(p => p.
 			]
 		)
 	)
+}
+
+const repertoireByTonality = repertoire.groupBy(r => r.Tonalidade).sort(g => g.rows.values.length, "desc")
+
+for(let tonalityGroup of repertoireByTonality) {
+	console.log({tonalityGroup})
+	dv.el("p", `Você tem ${tonalityGroup.rows.values.length} músicas em ${tonalityGroup.key.path} no seu repertório`)
 }
 ```
 

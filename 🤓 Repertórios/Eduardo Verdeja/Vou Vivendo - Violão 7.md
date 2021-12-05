@@ -1,4 +1,4 @@
-# Vou vivendo
+# Vou vivendo - Violão 7
 
 ## Metadados
 - Música:: [[🎶 Músicas/Vou Vivendo]]
