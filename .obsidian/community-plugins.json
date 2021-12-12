@@ -3,5 +3,9 @@
   "templater-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "graph-analysis",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-emoji-toolbar",
+  "juggl",
+  "obsidian-outliner",
+  "obsidian-sort-and-permute-lines"
 ]

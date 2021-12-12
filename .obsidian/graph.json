@@ -3,20 +3,42 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Músicas",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Repertórios",
+      "color": {
+        "a": 1,
+        "rgb": 6021202
+      }
+    },
+    {
+      "query": "path:Tonalidades",
+      "color": {
+        "a": 1,
+        "rgb": 14732626
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.4,
-  "nodeSizeMultiplier": 2.13578827247191,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 2.55090073529412,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0,
+  "repelStrength": 11.375,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.0029651831749604,
+  "linkDistance": 108,
+  "scale": 1.0581943364632571,
   "close": false
 }
