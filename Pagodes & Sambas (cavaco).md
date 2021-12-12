@@ -19,7 +19,7 @@
 - No calor dos salões
 - O show tem que continuar
 - Romance dos astros
-- Se a fila andar
+- [[Se a Fila Andar]]
 - Sem ataque, sem defesa
 - Tiro ao Álvaro
 - Um lindo sonho
