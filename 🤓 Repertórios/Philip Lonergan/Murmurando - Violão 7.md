@@ -5,6 +5,4 @@
 - Tonalidade:: [[D menor]]
 - Forma:: [[ABACA]]
 - Instrumento:: [[Violão 7 cordas]]
-- Domínio:: [[🙇‍♂️ Domínio Pequeno]]
-
-## Considerações
+- Domínio:: [[👍 Domínio Médio]]
