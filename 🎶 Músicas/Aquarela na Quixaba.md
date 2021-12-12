@@ -3,7 +3,7 @@
 **Compositores**:: [[Hamilton de Holanda]]
 **Intérpretes**:: [[Hamilton de Holanda]]
 **Intérpretes**:: [[Ian Coury]]
-**Tonalidades**:: [[G maior]]
+**Tonalidades**:: #G-maior
 **Ritmos**:: [[Choro-Samba]]
 **Partituras**:: [[aquarela na quixaba.pdf]]
 **Gravações**:: [Original por Hamilton de Holanda e Projeto Coisa Fina](https://www.youtube.com/watch?v=KEDi08bR_SU)

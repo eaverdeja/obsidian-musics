@@ -6,7 +6,7 @@
 **Intérpretes**:: [[Fernando Cesar]]
 **Intérpretes**:: [[Thanise Silva]]
 **Tonalidades**:: [[F maior]]/[[D menor]]/[[Bb maior]] - Original
-**Tonalidades**:: [[G maior]]/[[E menor]]/[[C maior]] - Bandolim
+**Tonalidades**:: #G-maior / [[E menor]]/[[C maior]] - Bandolim
 **Ritmos**:: [[Choro]]
 **Partituras**:: [[vou vivendo 1.jpeg]]
 **Partituras**:: [[vou vivendo 2.jpeg]]

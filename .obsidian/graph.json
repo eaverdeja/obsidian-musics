@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Músicas",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
       "query": "path:Repertórios",
       "color": {
         "a": 1,
@@ -26,6 +19,13 @@
       "color": {
         "a": 1,
         "rgb": 14732626
+      }
+    },
+    {
+      "query": "tag:#G-maior",
+      "color": {
+        "a": 1,
+        "rgb": 14142504
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 11.375,
   "linkStrength": 1,
   "linkDistance": 108,
-  "scale": 0.2739016283112149,
+  "scale": 0.6816095810670917,
   "close": false
 }
