@@ -1,8 +1,8 @@
 - Água de chuva no mar
 - Amor dos deuses
 - Bate na viola
-- Batucada dos nossos tantãs
-- Conselho
+- [[Batucada dos Nossos Tantãs]]
+- [[Conselho]]
 - Deixe estar
 - Doce refúgio
 - Eu e você sempre
