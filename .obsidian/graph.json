@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:\"🎶 Músicas\"",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -39,6 +39,6 @@
   "repelStrength": 11.375,
   "linkStrength": 1,
   "linkDistance": 108,
-  "scale": 0.2739016283112152,
-  "close": false
+  "scale": 0.6613079110603093,
+  "close": true
 }

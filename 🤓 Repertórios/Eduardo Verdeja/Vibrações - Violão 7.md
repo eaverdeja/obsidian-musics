@@ -2,7 +2,7 @@
 
 ## Metadados
 
-- Música:: [[Vibrações]]
+- Música:: [[🎶 Músicas/Vibrações]]
 - Tonalidade:: [[D menor]]
 - Forma:: 
 - Instrumento:: [[Violão 7 cordas]]

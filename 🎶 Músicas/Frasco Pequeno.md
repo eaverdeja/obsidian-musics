@@ -4,10 +4,10 @@
 **Intérpretes**:: [[Fundo de Quintal]]
 **Tonalidades**:: [[E maior]]
 **Ritmos**:: [[Samba]]
-**Partituras**:: 
+**Partituras**:: [[📰 Partituras/Frasco Pequeno.png]]
 **Gravações**:: [Em estúdio por Fundo de Quintal](https://www.youtube.com/watch?v=4WKLniLloWA&ab_channel=FundodeQuintal-Topic)
 
 
 # Partituras
 
-[[Frasco Pequeno.png]]
+![[📰 Partituras/Frasco Pequeno.png]]

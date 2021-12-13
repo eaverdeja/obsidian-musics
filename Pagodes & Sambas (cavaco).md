@@ -4,12 +4,12 @@
 - [[Batucada dos Nossos Tantãs]]
 - [[Conselho]]
 - Deixe estar
-- Doce refúgio
-- Eu e você sempre
-- Fada
+- [[Doce Refúgio]]
+- [[Eu e Você Sempre]]
+- [[Fada]]
 - [[Frasco Pequeno]]
 - Gamei
-- Livre pra sonhar
+- [[Livre pra Sonhar]]
 - Lucidez
 - Mais feliz
 - Meu lugar
