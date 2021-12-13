@@ -1,7 +1,6 @@
 # Metadados
 
-**Compositores**:: [[Adilson Bispo]]
-**Compositores**:: [[Zé Roberto]]
+**Compositores**:: [[Adilson Bispo]]/[[Zé Roberto]]
 **Intérpretes**:: [[Almir Guineto]]
 **Tonalidades**:: [[G maior]]
 **Ritmos**:: [[Samba]]

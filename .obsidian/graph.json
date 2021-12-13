@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:\"🎶 Músicas\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -35,10 +35,10 @@
   "nodeSizeMultiplier": 2.55090073529412,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0,
+  "centerStrength": 0.310661764705882,
   "repelStrength": 11.375,
   "linkStrength": 1,
   "linkDistance": 108,
-  "scale": 0.27390162831121534,
+  "scale": 1.0741770934920765,
   "close": false
 }

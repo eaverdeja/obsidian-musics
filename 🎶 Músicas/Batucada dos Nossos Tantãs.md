@@ -1,8 +1,6 @@
 # Metadados
 
-**Compositores**:: [[Adilson Gavião]]
-**Compositores**:: [[Robson Guimarães]]
-**Compositores**:: [[Sereno]]
+**Compositores**:: [[Adilson Gavião]]/[[Robson Guimarães]]/[[Sereno]]
 **Intérpretes**:: [[Fundo de Quintal]]
 **Tonalidades**:: [[F maior]]
 **Ritmos**:: [[Samba]]
