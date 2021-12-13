@@ -10,7 +10,7 @@
 **Tonalidades**:: [[G menor]]
 **Ritmos**:: [[Choro-Samba]]
 **Partituras**:: [[Aperto de mão Fm.pdf]]
-**Partituras**:: [[📰 Partituras/Aperto de mão F#m.pdf]]
+**Partituras**:: [[📰 Partituras/Aperto de mão F sharp m.pdf]]
 **Partituras**:: [[Aperto de mão Gm.pdf]]
 **Partituras**:: [[Aperto de mão Bbm.pdf]]
 **Gravações**:: [Em estúdio por Época de Ouro e Beth Carvalho](https://www.youtube.com/watch?v=sjKyNeA6A-Q&ab_channel=ChoroePoesia)
@@ -23,7 +23,7 @@
 ![[Aperto de mão Fm.pdf]]
 
 ## F# menor
-![[📰 Partituras/Aperto de mão F#m.pdf]]
+![[📰 Partituras/Aperto de mão F sharp m.pdf]]
 
 ## Gm menor
 ![[Aperto de mão Gm.pdf]]
