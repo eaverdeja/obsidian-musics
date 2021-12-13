@@ -49,9 +49,45 @@ for(let instrumentGroup of repertoireByInstrument) {
 ## Repertório Philip Lonergan
 
 ```dataviewjs
-for(let group of dv.pages('"🤓 Repertórios/Philip Lonergan"').groupBy(p => p.file.link)) {
-	dv.header("3", group.key)
-	dv.el("p", group.rows.map(r => r.file.outlinks))
+const order = ["💪 Domínio Grande", "👍 Domínio Médio", "🙇‍♂️ Domínio Pequeno"]
+const repertoire = dv.pages('"🤓 Repertórios/Philip Lonergan"')
+
+const repertoireBySkill = repertoire
+	.groupBy(r => r.Domínio)
+	.array()
+	.sort((a, b) => {
+		// (a or b).key.path is 💪 Domínio Grande or 👍 Domínio Médio etc.
+		return order.indexOf(a.key.path) - order.indexOf(b.key.path)
+	})
+for(let skillGroup of repertoireBySkill.sort(g => g.Instrumento)) {
+	dv.header("5", skillGroup.key)
+	dv.table(["Música/Instrumento", "Tonalidades"],
+        skillGroup.rows
+			.sort(k => [k.Instrumento, k.Música])
+            .map(k => [
+				k.file.link,
+				k.Tonalidade,
+			]
+		)
+	)
+}
+
+dv.el("hr", "")
+dv.header("3", "Quantidade de músicas/tonalidade")
+const repertoireByTonality = repertoire
+	.groupBy(r => r.Tonalidade)
+	.sort(g => g.rows.values.length, "desc")
+for(let tonalityGroup of repertoireByTonality) {
+	dv.el("p", `Você tem ${tonalityGroup.rows.values.length} músicas em ${tonalityGroup.key} no seu repertório`)	
+}
+
+dv.el("hr", "")
+dv.header("3", "Quantidade de músicas/instrumento")
+const repertoireByInstrument = repertoire
+	.groupBy(r => r.Instrumento)
+	.sort(g => g.rows.values.length, "desc")
+for(let instrumentGroup of repertoireByInstrument) {
+	dv.el("p", `Você tem ${instrumentGroup.rows.values.length} músicas tocadas no  ${instrumentGroup.key} no seu repertório`)
 }
 ```
 

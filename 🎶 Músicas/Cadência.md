@@ -4,7 +4,7 @@
 **Intérpretes**:: [[Jacob do Bandolim]]
 **Intérpretes**:: [[Clube do Choro de Avaré]]
 **Intérpretes**:: [[Luizinho 7 Cordas]]
-**Tonalidades**:: #G-maior / [[G menor]]
+**Tonalidades**:: [[G maior]]/[[G menor]]
 **Ritmos**:: [[Choro]]
 **Partituras**:: [[cadência1.png]]
 **Partituras**:: [[cadência2.png]]
