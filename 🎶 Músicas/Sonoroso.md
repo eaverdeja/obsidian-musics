@@ -9,4 +9,4 @@
 
 
 # Partituras
-![[Sonoroso 1.pdf]]
+![[Sonoroso.pdf]]
