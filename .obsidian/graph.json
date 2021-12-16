@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "path:\"🎶 Músicas\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Músicas",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Repertórios",
+      "color": {
+        "a": 1,
+        "rgb": 6021202
+      }
+    },
+    {
+      "query": "path:Tonalidades",
+      "color": {
+        "a": 1,
+        "rgb": 14732626
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 2.55090073529412,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.310661764705882,
+  "repelStrength": 11.375,
+  "linkStrength": 1,
+  "linkDistance": 108,
+  "scale": 1.3996706002769488,
+  "close": false
+}
