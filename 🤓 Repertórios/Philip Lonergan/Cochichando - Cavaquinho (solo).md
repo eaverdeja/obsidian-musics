@@ -1,3 +1,5 @@
+# Cochichando
+
 ## Metadados
 - Música:: [[🎶 Músicas/Cochichando]]
 - Tonalidade:: [[G maior]]
