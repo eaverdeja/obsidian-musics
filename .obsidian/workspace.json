@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "e6c52a75111d19e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fac5bc82dde60e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96bcd922ec383529",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "📰 Partituras/vibrações.pdf"
+              }
+            }
+          },
+          {
+            "id": "f26e3c38cfca29f7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "📰 Partituras/vibrações.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aec3bf7917750a14",
+    "type": "split",
+    "children": [
+      {
+        "id": "9039d38684eb2e9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9df43dece92fd327",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5917a52822290eb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca6e3ba29b63018a",
+    "type": "split",
+    "children": [
+      {
+        "id": "295bfdda10b15893",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edb0d539d2e47a5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📰 Partituras/vibrações.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78a0d712838df784",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "080f2eec19c1e52a",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2bb25f4871b5f4c",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "96bcd922ec383529",
+  "lastOpenFiles": [
+    "🎶 Músicas/Vibrações.md",
+    "🎶 Músicas/Sons de Carrilhões.md",
+    "🤓 Repertórios/Eduardo Verdeja/Pedacinhos do Céu - Violão 7.md",
+    "🤓 Repertórios/Eduardo Verdeja/Vibrações - Violão 7.md",
+    "🎶 Músicas/Brejeiro.md",
+    "🎶 Músicas/Doce de coco.md",
+    "🎶 Músicas/Aperto de mão.md",
+    "🎶 Músicas/Sonoroso.md",
+    "🎶 Músicas/Numa Seresta.md",
+    "🎶 Músicas/D'angola no Choro.md"
+  ]
+}
