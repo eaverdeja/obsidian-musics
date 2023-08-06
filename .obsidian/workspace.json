@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "cd0eab5835958aca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "📰 Partituras/Numa Seresta 1.jpg"
+              }
+            }
+          },
+          {
             "id": "f26e3c38cfca29f7",
             "type": "leaf",
             "state": {
@@ -27,7 +37,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📰 Partituras/vibrações.pdf",
+                "file": "📰 Partituras/Numa Seresta 1.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,11 +137,9 @@
     "direction": "horizontal",
     "width": 207
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "96bcd922ec383529",
+  "active": "cd0eab5835958aca",
   "lastOpenFiles": [
+    "📰 Partituras/Brejeiro 2.jpg",
     "🎶 Músicas/Vibrações.md",
     "🎶 Músicas/Sons de Carrilhões.md",
     "🤓 Repertórios/Eduardo Verdeja/Pedacinhos do Céu - Violão 7.md",
@@ -139,7 +148,6 @@
     "🎶 Músicas/Doce de coco.md",
     "🎶 Músicas/Aperto de mão.md",
     "🎶 Músicas/Sonoroso.md",
-    "🎶 Músicas/Numa Seresta.md",
-    "🎶 Músicas/D'angola no Choro.md"
+    "🎶 Músicas/Numa Seresta.md"
   ]
 }
